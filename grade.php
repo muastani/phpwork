@@ -21,7 +21,7 @@ if($grade >= '90'){
 }elseif($grade >= '80'){
     echo "ได้ A";
 }elseif($grade >= '75'){
-    echo "ได้ B+";
+    echo "ได้ B+"; 
 }elseif($grade >= '70'){
     echo "ได้ B";
 }elseif($grade >= '65'){
