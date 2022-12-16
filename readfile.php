@@ -1,0 +1,5 @@
+<?php
+
+    readfile('muas.txt');
+
+?>
